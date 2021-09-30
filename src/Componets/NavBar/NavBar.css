@@ -1,0 +1,18 @@
+@media screen and (max-width: 1024px) {
+  .mobile-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .nav-item {
+    margin-top: 15px;
+    display: block;
+  }
+  .mobile-nav {
+    display: none;
+  }
+  .icons {
+    display: block;
+    cursor: pointer;
+  }
+}
